@@ -13,7 +13,9 @@ MonoBehaviour:
   m_Name: dialogue3
   m_EditorClassIdentifier: 
   text: some text
-  responses: []
+  responses:
+  - {fileID: 11400000, guid: 3c2cf88100469034386680938c36e1b0, type: 2}
+  - {fileID: 11400000, guid: bece6702f6c97054094bb1b5cc678c90, type: 2}
   karmaScore: 0
   dialogueAudio: {fileID: 0}
   character: 0
