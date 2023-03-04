@@ -27,3 +27,8 @@ public class ShowResponses : EvtSystem.Event
 {
     public responseData[] responses;
 }
+
+public class DisableUI : EvtSystem.Event
+{
+
+}
